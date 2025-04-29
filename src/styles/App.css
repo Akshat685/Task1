@@ -1,0 +1,9 @@
+.app-container {
+    display: flex;
+    padding: 30px;
+    background-image: url('../images/Lystloc4.webp');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
