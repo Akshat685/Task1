@@ -6,7 +6,7 @@ managing employee data and a table to display the employee information. The code
 should be clean, well-structured, and the components should be logically separated.
 Requirements:
 ● Technology: React JS
-● Duration: 2 days
+
 ● Features:
 1. Add Employee Form: The form should include input fields for the
 employee's first name, last name, job title, job description, and job role,
