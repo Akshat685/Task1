@@ -1,3 +1,31 @@
+Task 1: Employee Management Project
+with React JS
+Objective: Build an Employee Management app using React JS with full CRUD
+functionality (Create, Read, Update, Delete). Each task should include a form for
+managing employee data and a table to display the employee information. The code
+should be clean, well-structured, and the components should be logically separated.
+Requirements:
+● Technology: React JS
+● Duration: 2 days
+● Features:
+1. Add Employee Form: The form should include input fields for the
+employee's first name, last name, job title, job description, and job role,
+along with a submit button.
+2. Employee Table: After submitting the form, display the employee data in
+a table with columns for first name, last name, job title, job description,
+and job role.
+3. Edit and Delete Functionality: Add "Edit" and "Delete" buttons in each
+row of the table. When the "Edit" button is clicked, allow the user to modify
+the details of that specific employee. When the "Delete" button is clicked,
+remove the employee from the table.
+Guidelines:
+● Each component should handle its specific task (UI or logic).
+● Ensure components like forms or lists can be reused if necessary.
+● Simple, clear, and easy-to-use interface.
+● Clean and well-commented code
+Best Of Luck !
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
